@@ -1,0 +1,40 @@
+ #primeiro-capitulo,h1{
+    background-color: #000;
+      color: #f00;
+     }
+         h1{ color: #00f400;
+     }
+        .paragrafo{
+             background-color: #ddd;
+             margin:30px;
+             padding-left: 45px;
+             border:2px solid #000000;
+                    
+      /* border-width: 2px;
+      border-style: solid;/* solid____ / dashed ---- / dotted ......
+      border-color: #000;*/
+    }
+    /*a:houver{
+        color: #0f0;
+    }
+    
+    /*a:link - estilo normal,
+    a:hover - estilo quando o mouse esta em cima do link
+    a:visited- estilo qaundo o usuario visitou link,
+    */
+
+    a:hover{
+        color: red;
+        background-color: #00f400;
+    }
+    .pagina{
+        width: 300px;
+        height: 500px;
+        background-color: #dfe3e4;
+        display: inline-block;
+
+       /* display: block -  exibir um unico conteudo por linha
+        display:inline -    exibir conteudo como se fosse uma unica linha 
+        display:inline-     block - exibir o conteudo como de fosse blocos em uma unica linha 
+        display:none -      nao exibir o conteudo*/
+    }
